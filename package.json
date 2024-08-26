@@ -1,0 +1,16 @@
+{
+  "name": "portfoliogen",
+  "version": "1.0.0",
+  "description": "generate a portfolio through node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.1.8"
+  }
+}
